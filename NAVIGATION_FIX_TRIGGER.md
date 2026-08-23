@@ -1,1 +1,0 @@
-Temporary trigger for the SalonNow navigation and mobile back-button fix. This file can be removed after the workflow completes.
