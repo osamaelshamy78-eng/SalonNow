@@ -1,0 +1,1 @@
+export const OAUTH_SESSION_FIX = 'PKCE callback is handled in src/main.jsx';
