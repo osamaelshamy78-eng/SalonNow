@@ -1,0 +1,1 @@
+OAuth callback handling: switch browser auth to PKCE, exchange the callback code on app startup, persist the session, and restore the signed-in state after Google redirects.
