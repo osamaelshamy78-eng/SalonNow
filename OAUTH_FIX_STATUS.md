@@ -1,0 +1,1 @@
+Status: root cause identified — OAuth returns to the Vite app but the browser callback code was not explicitly exchanged for a Supabase session. The production fix is to initialize Supabase with PKCE and exchange the callback code on startup.
