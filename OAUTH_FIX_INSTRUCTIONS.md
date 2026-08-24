@@ -1,0 +1,1 @@
+The production issue is the browser OAuth callback/session restoration. The fix should use Supabase PKCE and exchange the callback code before rendering the signed-in state.
